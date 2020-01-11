@@ -9,7 +9,7 @@ Faggruppen ønsker endvidere at indgå i dialog og diskussion med andre aktører
 
 ## Bestyrelse
 
-Person ｜ Role ｜Contact ｜ Link to profile
+Person｜ Role｜Contact｜Link to profile
 ------------------------------------------
-Content cell 1 ｜ content cell 2 ｜ content cell 3 ｜ centent cell 4
+Content cell 1｜ content cell 2｜ content cell 3｜ centent cell 4
 
